@@ -1,0 +1,81 @@
+110001
+Tony Mia
+01-01-1990
+Haward Mia
+Sophiya Begom
+1
+01912345678
+Dhaka
+2-4-2021   ::  16:27:31
+110002
+Steve Jobbar
+01-01-1990
+Mostafa Jabbar
+Tarana Halim
+1
+01931046223
+Khulna
+2-6-2020   ::  16:27:31
+110003
+Bucky Billah
+01-01-1990
+Kuddus Billah
+Jorina Khatun
+1
+01725237144
+Barishal
+2-5-2021   ::  16:27:31
+110004
+Thanos Molla
+01-01-1990
+Alars Molla
+Mosammot Suisan
+1
+01600223101
+chittagong
+1-6-2021   ::  16:27:31
+110005
+Thor Bepari
+01-01-1990
+Odin Bepari
+Frigga Begom
+1
+01915050629
+Rajshahi
+2-6-2021   ::  09:27:31
+110006
+Loki Bepari
+01-01-1990
+Odin Bepari
+Frigga Begom
+0
+01915900890
+Mymensingh
+2-6-2021   ::  12:27:31
+110007
+Bruce Bepari
+01-01-1990
+Thomas Bepari
+Mosammot Martha
+1
+01912878994
+Rangpur
+2-6-2021   ::  14:27:31
+110008
+Shahriar Niloy 
+01-01-1990
+Alomgir Hossain
+Beauty Khatun
+0
+01912959095
+Sylhet
+2-6-2021::16:27:31
+110009
+Jaiteeb
+4-3-1996
+badol
+koli
+1
+01517037279
+dhaka
+4-6-2021   ::  15:2:16
